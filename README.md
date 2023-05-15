@@ -1,1 +1,3 @@
 # 2021AmericanCommunitySurveyMdata-Analysis
+
+To succesfully complete this project, we collected data from the census M data. We built a database to analyze income, job type, education, housing, vehicle, and income-to-poverty ratio. We then used this data to create Business Intelligence (BI) reports comparing disabled and non-disabled individuals within the Middle Eastern community.  The project is essential because employment disparities among people with disabilities are significant, especially for individuals from underrepresented ethnic and racial backgrounds. Our project will help shed light on these disparities.  Additionally, our project will help increase awareness of the challenges faced by individuals with disabilities from Middle Eastern ancestry.
